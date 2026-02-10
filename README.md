@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Clean Framed Design -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
