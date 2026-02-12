@@ -12,33 +12,28 @@ class Adrien:
     def __init__(self):
         self.location = "Paris 🇫🇷"
         self.current_focus = ["AI in production", "Multi-Agent Systems", "Calculus & Linear Algebra (self-studying)"]
-        self.interests = ["Neuromorphic Engineering", "Biophysics", "Multimodal AI"]
+        self.interests = ["Neuromorphic Engineering", "Computational Neuroscience", "Multimodal AI"]
         self.languages = ["French", "English", "Spanish", "Russian (learning)"]
 
     def say_hi(self):
-        print("Let's build the future of AI together!")
+        print("Let's chat!")
 
 adrien = Adrien()
 adrien.say_hi()
 
-# Output: "Let's build the future of AI together!"
+# Output: "Let's chat!"
 ```
 
 **AI Engineer seeking challenges, growth, and competence.**
-
-I am working to bridge the gap between abstract mathematics and scalable, agentic architectures, aiming to combine rigorous ML/DL theory with practical deployment expertise. My interests span from low-level inference optimization to orchestrating complex multi-agent systems.
 
 ## Tools & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue?style=for-the-badge)
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge)
-![Google A2A](https://img.shields.io/badge/Google_A2A-4285F4?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -46,37 +41,32 @@ I am working to bridge the gap between abstract mathematics and scalable, agenti
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 
 ## Focus Areas & Goals
 
-**My goal is to master the full stack of AI engineering: from compute kernels to high-level cognitive architectures.**
+**My goal is to master the full stack of AI engineering: from compute kernels to high-level abstractions.**
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### 🤖 Agentic Systems
-Experimenting with multi-agent architectures and MCP servers to understand robust AI interactions.
+Experimenting with multi-agent systems and MCP servers.
 
 </td>
 <td width="33%" valign="top">
 
 ### ⚡ Inference Optimization
-Studying the mathematics and scaling laws that drive efficient ML/DL performance.
+Studying the maths that make all of it work under the hood (early in the process!).
 
 </td>
 <td width="33%" valign="top">
 
 ### 🧠 Multimodal & Bio-AI
 Currently early in partnership with a co-researcher on a project involving neuromorphic compute units.
-*(Work in Progress, more details soon)*
-
 </td>
 </tr>
 </table>
