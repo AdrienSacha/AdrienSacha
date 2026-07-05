@@ -11,8 +11,8 @@
 class Adrien:
     def __init__(self):
         self.location = "Paris 🇫🇷"
-        self.current_focus = ["AI in production", "Multi-Agent Systems", "Calculus & Linear Algebra (self-studying)"]
-        self.interests = ["Neuromorphic Engineering", "Computational Neuroscience", "Multimodal AI"]
+        self.current_focus = ["AI in production", "Calculus & Linear Algebra (self-studying)"]
+        self.interests = ["Neuromorphic Engineering", "Computational Biology", "Neurosciences", "Multimodal AI"]
         self.languages = ["French", "English", "Spanish", "Russian (learning)"]
 
     def say_hi(self):
