@@ -33,7 +33,7 @@ Seeking challenges, growth, and competence.
 
 ## Studies
 
-AI4CI at Cnam. Coursework: operating systems and computer architecture, network architecture and security, distributed systems, and applied machine learning.
+[Artificial Intelligence for Connected Industries (AI4CI)](https://ai4ci.roc.cnam.fr/) at Cnam.
 
 <div align="center">
   
