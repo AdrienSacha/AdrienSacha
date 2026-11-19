@@ -33,7 +33,7 @@ Seeking challenges, growth, and competence.
 
 ## Studies
 
-AI4CI at Cnam: embedded systems, signal processing and ML foundations.
+AI4CI at Cnam. Coursework: operating systems and computer architecture, network architecture and security, distributed systems, and applied machine learning.
 
 <div align="center">
   
