@@ -10,8 +10,9 @@
 First-year master's student, enrolled in **AI4CI**.
 
 - 📍 Paris 🇫🇷
-- 🔭 Currently focused on: AI in production, calculus & linear algebra (self-studying)
-- 🧪 Interested in: neuromorphic engineering / post-CMOS computing, computational biology, neurosciences, multimodal AI
+- 🔭 Currently focused on: AI in production
+- 🧪 Interested in: multimodal AI, agentic AI, neuromorphic engineering / post-CMOS computing, computational biology, neurosciences
+- 💻 Programming languages: Python (intermediate), C (beginner)
 - 🗣️ Languages: French, English, Spanish, Russian (learning), German (learning)
 
 Seeking challenges, growth, and competence.
@@ -29,7 +30,6 @@ Seeking challenges, growth, and competence.
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Studies
 
