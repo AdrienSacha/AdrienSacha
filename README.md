@@ -20,7 +20,7 @@ Seeking challenges, growth, and competence.
 ## Projects
 
 - [lecture2audio](https://github.com/AdrienSacha/lecture2audio): lecture-to-notes-and-audio pipeline with checks on every claim. Work in progress.
-- [Beyond the Board](https://github.com/AdrienSacha/Beyond-the-Board): real-time AI chess coach, built in a team of five.
+- [Beyond the Board](https://github.com/CousinCombey/beyond_the_board): real-time AI chess coach, built in a team of five.
 
 ## Tools & Frameworks
 
