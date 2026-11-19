@@ -2,18 +2,18 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&section=header"/>
   <kbd>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=667EEA&center=true&vCenter=true&width=520&height=80&lines=Hey%2C+I'm+Adrien+%F0%9F%91%8B;AI4CI+Master+Student;First+Year" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=667EEA&center=true&vCenter=true&width=520&height=80&lines=Hey%2C+I'm+Adrien;AI4CI+Master+Student;First+Year" alt="Typing SVG" />
   </kbd>
 </div>
 
 ## About Me
 First-year master's student, enrolled in **AI4CI**.
 
-- 📍 Paris 🇫🇷
-- 🔭 Currently focused on: AI in production
-- 🧪 Interested in: multimodal AI, agentic AI, neuromorphic engineering / post-CMOS computing, computational biology, neurosciences
-- 💻 Programming languages: Python (intermediate), C (beginner)
-- 🗣️ Languages: French, English, Spanish, Russian (learning), German (learning)
+- Paris
+- Currently focused on: AI in production
+- Interested in: multimodal AI, agentic AI, neuromorphic engineering / post-CMOS computing, computational biology, neurosciences
+- Programming languages: Python (intermediate), C (beginner)
+- Languages: French, English, Spanish, Russian (learning), German (learning)
 
 Seeking challenges, growth, and competence.
 
@@ -37,7 +37,7 @@ AI4CI at Cnam: embedded systems, signal processing and ML foundations.
 
 <div align="center">
   
-🌐 Let's Connect
+Let's Connect
 
 </div>
 
