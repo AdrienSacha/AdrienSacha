@@ -37,12 +37,6 @@ AI4CI at Cnam: embedded systems, signal processing and ML foundations.
 
 <div align="center">
   
-Let's Connect
-
-</div>
-
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrien-ancri-clot-57b68514b/)
 
 </div>
